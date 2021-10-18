@@ -52,7 +52,7 @@ const tracker = async() => {
                     updateRole();
                     break;
                 default:
-                    console.log('Goodbye')
+                    console.log('Press ctrl C, Goodbye')
             }
         })
 }

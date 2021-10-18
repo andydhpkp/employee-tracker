@@ -15,8 +15,11 @@ VALUES
 
 INSERT INTO employees (first_name, last_name, role_id, manager_id)
 VALUES
-('Andrew', 'Durham', 2, 5),
-('Taylor', 'Dunn', 2, 5),
-('Tate', 'Benson', 1, 5),
-('Brock', 'Bettilyon', 1, 5),
-('Trevor', 'Diemoz', 5, NULL)
+('Trevor', 'Diemoz', 5, NULL);
+
+INSERT INTO employees (first_name, last_name, role_id, manager_id)
+VALUES
+('Andrew', 'Durham', 2, 1),
+('Taylor', 'Dunn', 2, 1),
+('Tate', 'Benson', 1, 1),
+('Brock', 'Bettilyon', 1, 1);
