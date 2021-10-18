@@ -7,7 +7,7 @@
 A project built with inquirer that allows a user to edit an employee database through a series of prompts
 ## Demonstration
 ### Video
-![video of application](tracker.mov)
+Link to video: https://watch.screencastify.com/v/Sqyv2ZyxiVrt1h32DDSv
 ### Screenshot
 ![pic of application](screenshot.png)
 ## Table of Contents
